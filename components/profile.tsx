@@ -4,7 +4,7 @@ export const Profile = () => {
 	return (
 		<div className="px-6 py-3 bg-gray-100 rounded-full flex items-center justify-center gap-4 text-gray-800">
 			<a
-				href="https://github.com/themashcodee?tab=repositories"
+				href="https://github.com/themashcodee/broadcaster-api"
 				target="_blank"
 				rel="noreferrer"
 			>
